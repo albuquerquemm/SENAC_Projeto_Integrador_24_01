@@ -4,5 +4,5 @@ Repositótrio da segunda entrega do Projeto Integrador - 2024_01
 ## Primeira Entrega
 Foram apresentados
 * Diagrama de casos de uso
-* Tabelas de Cenário de casos de usos
+* Tabelas de cenário de casos de usos
 * Diagrama de classes
