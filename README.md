@@ -13,7 +13,7 @@ Foram apresentados:
 * Diagrama de classes
 
 ### [Segunda Entrega](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Segunda%20Entrega.md)
-A segunda entrega PI consiste no desenvolvimento de um projeto voltado a gestão de dados de um centro universitário, utilizando os artefatos desenvolvidos na fase 1 do projeto.
+A segunda entrega do PI consiste no desenvolvimento de um projeto voltado a gestão de dados de um centro universitário, utilizando os artefatos desenvolvidos na fase 1 do projeto.
 
 Foram apresentados:
 * Git do projeto
