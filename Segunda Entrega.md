@@ -5,95 +5,95 @@ Na segunda entrega foram apresentados:
 
 ### Jornada de Cadastro de Pessoa Física
 ___
-![Tela-001](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_001.PNG)
+![Tela-001](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_01.png)
 ___
-![Tela-002](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_002.PNG)
+![Tela-002](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_02.png)
 ___
-![Tela-003](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_003.PNG)
+![Tela-003](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_03.png)
 ___
 
 ### Jornada de Cadastro do Aluno
 ___
-![Tela-004](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_004.PNG)
+![Tela-004](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_04.png)
 ___
-![Tela-005](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_005.PNG)
+![Tela-005](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_05.png)
 ___
-![Tela-006](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_006.PNG)
+![Tela-006](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_06.png)
 ___
-![Tela-007](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_007.PNG)
+![Tela-007](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_07.png)
 ___
-![Tela-008](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_008.PNG)
+![Tela-008](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_08.png)
 ___
-![Tela-009](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_009.PNG)
+![Tela-009](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_09.png)
 ___
 
 ### Jornada de Cadastro do Professor
 ___
-![Tela-010](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_010.PNG)
+![Tela-010](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_10.png)
 ___
-![Tela-011](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_011.PNG)
+![Tela-011](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_11.png)
 ___
-![Tela-012](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_012.PNG)
+![Tela-012](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_12.png)
 ___
-![Tela-013](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_013.PNG)
+![Tela-013](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_13.png)
 ___
-![Tela-014](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_014.PNG)
+![Tela-014](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_14.png)
 ___
-![Tela-015](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_015.PNG)
+![Tela-015](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_15.png)
 ___
 
 ### Jornada de Cadastro do Funcionário
 ___
-![Tela-016](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_016.PNG)
+![Tela-016](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_16.png)
 ___
-![Tela-017](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_017.PNG)
+![Tela-017](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_17.png)
 ___
-![Tela-018](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_018.PNG)
+![Tela-018](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_18.png)
 ___
-![Tela-019](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_019.PNG)
+![Tela-019](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_19.png)
 ___
-![Tela-020](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_020.PNG)
+![Tela-020](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_20.png)
 ___
-![Tela-021](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_021.PNG)
+![Tela-021](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_21.png)
 ___
-![Tela-022](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_022.PNG)
+![Tela-022](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_22.png)
 ___
-![Tela-023](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_023.PNG)
+![Tela-023](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_23.png)
 ___
-![Tela-024](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_024.PNG)
+![Tela-024](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_24.png)
 ___
-![Tela-025](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_025.PNG)
+![Tela-025](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_25.png)
 ___
-![Tela-026](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_026.PNG)
+![Tela-026](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_26.png)
 ___
 
 
 ### Jornada de Cadastro de Pessoa Jurídica
 ___
-![Tela-027](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_027.PNG)
+![Tela-027](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_27.png)
 ___
-![Tela-028](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_028.PNG)
+![Tela-028](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_28.png)
 ___
-![Tela-029](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_029.PNG)
+![Tela-029](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_29.png)
 ___
-![Tela-030](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_030.PNG)
+![Tela-030](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_30.png)
 ___
-![Tela-031](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_031.PNG)
+![Tela-031](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_31.png)
 ___
 
 
 ### Jornada de Cadastro do Fornecedor
 ___
-![Tela-032](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_032.PNG)
+![Tela-032](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_32.png)
 ___
-![Tela-033](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_033.PNG)
+![Tela-033](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_33.png)
 ___
-![Tela-034](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_034.PNG)
+![Tela-034](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_34.png)
 ___
-![Tela-035](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_035.PNG)
+![Tela-035](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_35.png)
 ___
-![Tela-036](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_036.PNG)
+![Tela-036](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_36.png)
 ___
-![Tela-037](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas/Sc_037.PNG)
+![Tela-037](https://github.com/albuquerquemm/SENAC_Projeto_Integrador_24_01/blob/main/Telas_v2/Sc_new_37.png)
 ___
 
